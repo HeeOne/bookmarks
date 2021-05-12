@@ -36,6 +36,7 @@ sidebar: auto
 - [**Vant**](https://vant-contrib.gitee.io/vant/#/zh-CN/pull-refresh) 移动端组件库
 - [**scrumpy/tiptap**](https://github.com/scrumpy/tiptap?utm_source=gold_browser_extension)  A rich-text editor for Vue.js
 - [**vue-popper**](https://robinck.github.io/vue-popper/)  VueJS popover component based popper.js
+- [**Vue.Draggable**](https://github.com/SortableJS/Vue.Draggable#readme) 拖动
 
 ### Vue 3.x
 
@@ -83,7 +84,7 @@ sidebar: auto
 - [**Examples - flatpickr**](https://flatpickr.js.org/examples/) 组件
 - [**Moment.js | Home**](https://momentjs.com/) 获取特定格式的时间JS库
 - [**FullCalendar**](https://fullcalendar.io/docs/getting-started) 时间+拖拉
-- [**Calendar | TOAST UI **](https://ui.toast.com/tui-calendar) 日程排表
+- [**Calendar | TOAST UI**](https://ui.toast.com/tui-calendar) 日程排表
 
 ### 复制粘贴
 
@@ -144,9 +145,18 @@ sidebar: auto
 
 - [**Nano ID CC**](https://zelark.github.io/nano-id-cc/) 生成唯一ID
 
+### 代码库
+
+- [**30 seconds of code**](https://www.30secondsofcode.org/js/p/1)
+
 ## CSS库
 
 - [**Installation - Tailwind CSS**](https://tailwindcss.com/docs/installation/)
+- [**codemyui**](https://codemyui.com/) 很多UI示例和代码
+
+## Git
+
+- [**Git Tips**](https://github.com/521xueweihan/git-tips) Git技巧
 
 ## 例子集
 

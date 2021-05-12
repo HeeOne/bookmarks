@@ -24,7 +24,7 @@ const config = [
     title: 'Blog',
     path: '/blog/',
     children: [
-      ''
+      '', 'css'
     ]
   },
   {
@@ -38,8 +38,7 @@ const config = [
     title: '其他',
     path: '/other/',
     children: [
-      '',
-      'tool'
+      ''
     ]
   },
   {

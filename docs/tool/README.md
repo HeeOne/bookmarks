@@ -52,8 +52,8 @@ sidebar: auto
 - [**WebGradients.com 💎**](https://webgradients.com/) 渐变
 - [**uiGradients**](https://uigradients.com/#SummerDog) 渐变
 - [**Color Hex - ColorHexa.com**](https://www.colorhexa.com/) 单位转换，配色方案，阴影和色调，饱和度，色盲模拟器
-- [** Adobe Color CC**](https://color.adobe.com/zh/create/color-wheel/) 色輪 | 色彩配置
-- [**Flat UI Colors 🎨 **](https://flatuicolors.com/palette/defo)  280 handpicked colors ready for COPY & PASTE
+- [**Adobe Color CC**](https://color.adobe.com/zh/create/color-wheel/) 色輪 | 色彩配置
+- [**Flat UI Colors 🎨**](https://flatuicolors.com/palette/defo)  280 handpicked colors ready for COPY & PASTE
 - [**中国色**](http://zhongguose.com/?utm_source=wechat_session&utm_medium=social&utm_oi=74631381778432) 中国传统颜色
 - [**color drop**](http://flatuicolors.com/) 配色方案
 - [**Color Hunt - Color Palettes for Designers and Artists**](https://colorhunt.co/) 配色方案
@@ -63,6 +63,7 @@ sidebar: auto
 - [**Atomic Design | Brad Frost**](https://bradfrost.com/blog/post/atomic-web-design/) 原子设计方法论
 - [**SaaS Web App UI design inspiration & screenshots**](https://screenlane.com/platform/web-apps/category/saas/)
 - [**Kalium | Laborator Themes - www.laborator.co**](https://themes.laborator.co/)
+- [**Dribbble**](https://dribbble.com/)
 
 ## 其他
 

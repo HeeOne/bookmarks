@@ -21,13 +21,6 @@ const config = [
     ]
   },
   {
-    title: 'Blog',
-    path: '/blog/',
-    children: [
-      '', 'css'
-    ]
-  },
-  {
     title: '面试',
     path: '/interview/',
     children: [
@@ -37,6 +30,13 @@ const config = [
   {
     title: '其他',
     path: '/other/',
+    children: [
+      ''
+    ]
+  },
+  {
+    title: '电影',
+    path: '/movies/',
     children: [
       ''
     ]

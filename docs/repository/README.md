@@ -22,6 +22,11 @@ sidebar: auto
 - [**webpack**](https://webpack.docschina.org/concepts/)
 - [**Vite**](https://cn.vitejs.dev/config/)
 
+## htmx
+[**官网**](https://github.com/bigskysoftware/htmx)
+
+htmx gives you access to AJAX, CSS Transitions, WebSockets and Server Sent Events directly in HTML, using attributes, so you can build modern user interfaces with the simplicity and power of hypertext
+
 ## Vue
 
 - [**Vue CLI**](https://cli.vuejs.org/zh/guide/) 基于 Vue.js 进行快速开发的完整系统
@@ -94,6 +99,7 @@ sidebar: auto
 
 - [**Quill**](https://quilljs.com/)
 - [**Smart WYSIWYG HTML editor | CKEditor 4**](https://ckeditor.com/ckeditor-4/)
+- [**Lexical**](https://github.com/facebook/lexical) Facebook开发编辑器
 
 ### 图标
 

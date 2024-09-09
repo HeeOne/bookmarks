@@ -36,6 +36,9 @@ sidebar: auto
   - [**TypeScript入门教程**](https://ts.xcatliu.com/basics/type-assertion.html) 
   - [**深入理解 TypeScript**](https://jkchao.github.io/typescript-book-chinese/#why/) 
 
+- [**Vben**](https://www.vben.pro/#/analytics) Vite + Vue3 开发的网站
+  - [**Vben Admin**](https://github.com/vbenjs/vue-vben-admin)
+
 ## 库
 
 - [**awesome-bookmarks**](https://panjiachen.github.io/awesome-bookmarks/)
